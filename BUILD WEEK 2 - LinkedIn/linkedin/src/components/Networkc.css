@@ -1,0 +1,12 @@
+
+
+#Card{
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.card-image-top{
+    object-fit: cover;
+    height: 15vh;
+    width: 100%;
+}
