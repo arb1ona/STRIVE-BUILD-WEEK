@@ -1,0 +1,67 @@
+#bckimage{
+    width:100%;
+    height:100%;
+}
+#bckDiv{
+    height:300px;
+}
+h3{
+    color: black;
+}
+span{
+    color: black;
+}
+h5{
+    color: black;
+}
+#imageWrapper{
+    height:175px !important;
+    width:175px !important;
+    position: relative;
+    top:-100px;
+    left:50px;
+    margin-right: 0px;
+    display:inline-block;
+}
+#editWrapper{
+    display:inline-block;
+    position: relative;
+}
+#profilePic{
+    height:75%;
+   width:75%;
+    border-radius: 50%;
+    border: 5px solid #dde7f0;
+}
+#profile-image-wrapper{
+    position: relative;
+}
+#bottom-right{
+    position: absolute;
+    top: 100px;
+    right:54px;
+    width:auto;
+}
+#bottom-right > input{
+    display: none;
+}
+#edit-profile-icon{
+    color: white !important;
+    cursor: pointer;
+}
+.jumbo{
+background-image: url("https://miro.medium.com/max/1124/1*92adf06PCF91kCYu1nPLQg.jpeg");
+}
+#input-group-dropdown-1{
+ background-color:#0073b1 !important;
+ color: white;
+ height: auto;
+ width: auto;
+}
+.morebtn{
+    border: grey 1px solid !important;
+    background-color: white !important;
+    color: grey !important;
+    height: auto !important;
+    width: auto !important;
+}
